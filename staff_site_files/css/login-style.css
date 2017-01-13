@@ -1,0 +1,286 @@
+body
+{
+	background: #644436;
+}
+
+#wrapper
+{
+    width: 1000px;
+}
+
+#pesan
+{
+    color: #ba4c32;
+}
+
+#login_window
+{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+    background-color: #ecdfcf;
+    width: 400px;
+    height: 300px;
+        
+    -moz-box-shadow: 0 0 3px 3px smokewhite;
+    -webkit-box-shadow: 0 0 3px 3px smokewhite;
+    box-shadow: 0 0 3px 3px smokewhite;
+    
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 5px;
+    
+    margin: auto;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.class
+{
+    height: 100px;
+}
+
+#judul
+{
+    padding-left: 15px;
+    color: #c95643;
+}
+
+.component_wrapper
+{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+
+#input-pass
+{
+    float: left;
+}
+
+#forgot
+{
+    float: left;
+}
+
+.buttons { text-align: left; padding-left: 15px; }
+
+.button
+{
+    -moz-box-shadow: 0 0 2px #978f6c;
+    -webkit-box-shadow: 0 0 2px #978f6c;
+}
+
+.button
+{
+	background:#eee url(img/button.gif) repeat-x 0 0;
+	border:solid 1px #b1a874;
+	color:#7f7f7f;
+	font-size:14px;
+	padding:4px 6px 2px 6px;
+	cursor:pointer;
+	line-height:20px;
+    width: 80px;
+}
+
+.button:hover
+{
+	color:#333;
+	border-color:#857b42;
+}
+
+/*START SETTING*/
+
+#setting_window
+{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+    background-color: #ffffff;
+    width: 500px;
+    height: 500px;
+        
+    -moz-box-shadow: 0 0 5px 5px black;
+    -webkit-box-shadow: 0 0 5px 5px black;
+    box-shadow: 0 0 5px 5px black;
+    
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 5px;
+    
+    margin: auto;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+#judul1
+{
+    color: red;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#judul2
+{
+    color: red;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.textfield-setting
+{
+    text-align: center;   
+    padding-bottom: 10px;
+}
+
+#button
+{
+    text-align: center;
+    padding: 10px 0px 20px 0px;
+}
+
+#button2
+{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.button-setting
+{
+    -moz-box-shadow: 0 0 2px #978f6c;
+    -webkit-box-shadow: 0 0 2px #978f6c;
+}
+
+.button-setting
+{
+	background:#eee url(img/button.gif) repeat-x 0 0;
+	border:solid 1px #b1a874;
+	color:#7f7f7f;
+	font-size:14px;
+	padding:4px 6px 2px 6px;
+	cursor:pointer;
+	line-height:20px;
+    width: 200px;
+}
+
+.button-setting:hover
+{
+	color:#333;
+	border-color:#857b42;
+}
+
+/*END SETTING*/
+
+/*START STEP1*/
+
+.textfield-insert
+{
+    padding-left: 20px;
+    padding-bottom: 15px;
+}
+
+.picture
+{
+    width: 50%;
+    padding-left: 20px;
+    float: left;
+}
+
+.listbox
+{
+    
+}
+
+#text-button
+{
+    float: left;
+}
+
+#kiri
+{
+    float: left;
+}
+
+#kanan
+{
+    float: right;
+}
+
+#bag-kiri
+{
+    width: 50%;
+    float: left;
+    padding-top: 15px;
+}
+
+#bag-kanan
+{
+    width: 40%;
+    float: left;
+    padding-top: 15px;
+}
+
+/*END STEP1*/
+
+/*START UNGGAH*/
+
+#atas-wrapper
+{
+    width: 100%;
+    height: 250px;
+    padding: 15px 0px 15px 15px;
+}
+
+#bawah-wrapper
+{
+    width: 100%;
+    height: 250px;
+    padding-left: 15px;
+}
+
+#kiri-atas
+{
+    width: 50%;
+    float: left;
+}
+
+#kanan-atas
+{
+    width: 50%;
+    float: right;
+}
+
+#kiri-bawah
+{
+    width: 50%;
+    float: left;
+}
+
+#kanan-bawah
+{
+    width: 50%;
+    float: right;
+}
+
+.label
+{
+    padding-bottom: 5px;
+}
+
+/*END UNGGAH*/
+
+/*START STEP3*/
+
+#wsyiwyg
+{
+    padding: 15px 0px 0px 20px;
+}
+
+/*END STEP3*/

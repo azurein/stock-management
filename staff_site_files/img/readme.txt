@@ -1,0 +1,1 @@
+Masukan semua gambar ke dalam staff_site_files/img
